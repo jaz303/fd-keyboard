@@ -1,0 +1,26 @@
+{
+  "name": "fd-keyboard",
+  "version": "0.0.0",
+  "description": "Stateful DOM keyboard handler for use in games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaz303/fd-keyboard.git"
+  },
+  "keywords": [
+    "keyboard",
+    "handler",
+    "events",
+    "dom",
+    "games"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaz303/fd-keyboard/issues"
+  },
+  "homepage": "https://github.com/jaz303/fd-keyboard"
+}
